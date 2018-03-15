@@ -15,3 +15,5 @@ nonmaxsuppts.py is the Non-Maximal suppression function.
 compute_affine_xform.py and compute_fully_projective_xform.py will calculate the affine transformation matrix and projective matrix of two pictures.
 
 ssift_descriptor.py uses sift way to do features match.
+
+Imgae_source and Image_results folder contains some examples.
